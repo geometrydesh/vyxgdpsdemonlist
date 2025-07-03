@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "vorvexy",
+            "link": "https://www.youtube.com/watch?v=j5a0jTc9S10&list=PL3KnTfyhrIlcudeMemKd6rZFGDWyK23vx&index=9",
+            "percent": 69,
+            "hz": 480
         }
     ]
 }
