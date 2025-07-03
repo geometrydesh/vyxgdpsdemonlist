@@ -118,7 +118,7 @@ export default {
                         Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        If you are using an LDM, ask a staff (or me) in the [discord](https://discord.com/invite/pjBJ4Xmk2A) to review the LDM.
+                        If you are using an LDM, ask a staff (or me) in the discord to review the LDM.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 48 hours after it falls off, then afterwards we never accept records for said level.
