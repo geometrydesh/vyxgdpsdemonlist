@@ -1,12 +1,12 @@
 {
-    "id": 139,
-    "name": "silent balls",
-    "author": "Cyclical",
-    "creators": ["Cyclical"],
-    "verifier": "Cyclical",
+    "id": placeholder,
+    "name": "placeholder",
+    "author": "placeholder",
+    "creators": ["placeholder"],
+    "verifier": "placeholder",
     "verification": "",
     "percentToQualify": "45",
-    "password": "idk",
+    "password": "placeholder",
     "records": [
     ]
 }
