@@ -106,6 +106,9 @@ export default {
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
+                        The level must be at least 30 seconds long.
+                    </p>
+                    <p>
                         You need to have click sounds to get accepted. If your video dosent have click sounds, then you must include it in your raw footage.
                     </p>
                     <p>
